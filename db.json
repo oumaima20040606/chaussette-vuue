@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Chaussette Verte",
+      "description": "Chaussette confortable en coton de couleur verte",
+      "price": 5.99,
+      "color": "vert",
+      "image": "https://example.com/images/chaussette-verte.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Chaussette Bleue",
+      "description": "Chaussette légère en laine de couleur bleue",
+      "price": 6.99,
+      "color": "bleu",
+      "image": "https://example.com/images/chaussette-bleue.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "productId": 1,
+      "quantity": 2
+    },
+    {
+      "id": 2,
+      "productId": 2,
+      "quantity": 1
+    }
+  ]
+}
